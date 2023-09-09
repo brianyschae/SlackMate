@@ -1,5 +1,9 @@
 # SlackMate
 
+![image](https://github.com/brianyschae/SlackMate/assets/49376205/a3522148-a694-46b7-be70-84aa0e35fe4d)
+
+![image](https://github.com/brianyschae/SlackMate/assets/49376205/1ce450dc-00fb-49c2-b165-747d77300657)
+
 
 ## File Structure
 - **bot.py** handles the app initialization and registers event and command handlers.
