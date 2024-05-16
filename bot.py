@@ -10,7 +10,7 @@ from env import env_path
 # Initializes your app with your bot token and signing secret
 app = App(
     token=os.environ['SLACK_TOKEN'],
-    signing_secret=os.environ['SIGNINING_SECRET']
+    signing_secret=os.environ['SIGNING_SECRET']
 )
 
 # Register event handlers
